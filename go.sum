@@ -1,2 +1,4 @@
 github.com/emicklei/proto v1.13.2 h1:z/etSFO3uyXeuEsVPzfl56WNgzcvIr42aQazXaQmFZY=
 github.com/emicklei/proto v1.13.2/go.mod h1:rn1FgRS/FANiZdD2djyH7TMA9jdRDcYQ9IEN9yvjX0A=
+github.com/emicklei/proto-contrib v0.16.0 h1:I0rAHhIVfI6j6GC3ojlFHXH3wNH8gvxtBOjlp64UQ0o=
+github.com/emicklei/proto-contrib v0.16.0/go.mod h1:fzL/hybgHb6PA60EnSS2WnYoR4SPTD8sF5FpUa+Ay/Q=
